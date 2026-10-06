@@ -1,0 +1,6 @@
+{
+  "name": "RotaryMeasure",
+  "description": "Precision rotational degree to centimeter and inch measurement converter for wheels, lead screws, gears, and arcs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
