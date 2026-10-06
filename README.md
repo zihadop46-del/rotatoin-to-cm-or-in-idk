@@ -63,17 +63,3 @@ The core physics and math engine calculates exact values for four major mechanic
 | **Lead Screw Travel** | \(\text{Distance} = \text{Lead} \times (\frac{\theta}{360})\) where Lead = Pitch × Starts |
 | **Belt Pulley Travel** | \(\text{Distance} = (\text{Teeth} \times \text{Pitch}) \times (\frac{\theta}{360})\) |
 | **Arc Curvature** | \(\text{Arc Length} = R \times (\theta \times \frac{\pi}{180})\) |
-
----
-
-## 🏗 Installation & Setup
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com
-   ```
-2. Open the project folder in **Android Studio (Ladybug or newer)**.
-3. Sync the project with the Gradle files.
-4. Select an active emulator configuration or connect a physical Android device (recommended for testing the Live Gyro Protractor).
-5. Press `Run` (`Shift + F10`). All tests and builds pass out-of-the-box in the emulator preview environment.
-
